@@ -1,8 +1,8 @@
-# Chat - AI
+# PROJECT K
 
-AI Chat App using Generative Language Client API
+3D LIVE TUTOR
 
-[chat-ai](https://ai.visheshpandey.com)
+
 
 ## Setup Procedure
 
