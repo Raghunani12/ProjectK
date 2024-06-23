@@ -1,0 +1,7 @@
+.bg-white {
+    background-image: url('E:\chat-ai-main\chat-ai-main\src\assets\2.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position:inherit; /* Adjust as needed */
+    opacity: 0.9; /* Adjust the opacity value */
+  }
+  
