@@ -1,8 +1,5 @@
 # Chat - AI
-
-AI Chat App using Generative Language Client API
-
-[chat-ai](https://ai.visheshpandey.com)
+# AI POWERED EDUCATIONAL PLATFORM WITH LIVE 3D TUTORS
 
 ## Setup Procedure
 
