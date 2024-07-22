@@ -1,4 +1,4 @@
-# Chat - AI
+
 # AI POWERED EDUCATIONAL PLATFORM WITH LIVE 3D TUTORS
 
 ## Setup Procedure
