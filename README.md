@@ -1,4 +1,4 @@
-
+Status : Devoloping
 # AI POWERED EDUCATIONAL PLATFORM WITH LIVE 3D TUTORS
 <img src="src/assets/2.jpg"></img>
 
